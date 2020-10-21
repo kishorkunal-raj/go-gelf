@@ -8,3 +8,8 @@ script:
 branches:
   only:
   - master
+  - v1
+
+arch: 
+  - amd64
+  - ppc64le
